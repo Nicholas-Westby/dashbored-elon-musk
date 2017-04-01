@@ -1,0 +1,4 @@
+<Action runat="install" undo="false" alias="Musk.TransformXmlFile"
+  installTransform="~/App_Plugins/Musk/Transforms/dashboard.config.install.xdt.txt"
+  uninstallTransform="~/App_Plugins/Musk/Transforms/dashboard.config.uninstall.xdt.txt"
+  file="~/Config/Dashboard.config" />
